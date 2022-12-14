@@ -1,0 +1,3 @@
+[submodule "uxu-design-system"]
+	path = uxu-design-system
+	url = git@github.com:pawel-niedzwiecki/uxu-design-system.git
